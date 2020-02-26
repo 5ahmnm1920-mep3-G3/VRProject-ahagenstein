@@ -1,6 +1,7 @@
 # VRProject-ahagenstein
 
 ### Project description: 
+you have to collect all the eggs hidden in the scene and put it in a basket in the middle of the scene. The middle of the scene is also marked with a globe. Collect all the eggs and win the game! 
 
 ### Development platform:
 - macOS Catalina Version 10.15.1 
