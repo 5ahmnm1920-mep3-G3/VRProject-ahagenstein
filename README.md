@@ -1,7 +1,6 @@
 # VRProject-ahagenstein
 
 ### Project description: 
-Man ist in einem Klassenzimmer und muss Papierflieger in einen Mülleimer werfen, nach jedem Treffer kommt man dem Ziel, welches alle Papierflieger im Raum wegzuwerfen ist, immer etwas näher.
 
 ### Development platform:
 - macOS Catalina Version 10.15.1 
