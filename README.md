@@ -11,6 +11,7 @@ you have to collect all the eggs hidden in the scene and put it in a basket in t
 - API Compatibility Level: .NET 2.0
 
 ### Target platform:
+VR Oculus Rift / HTC Vive
 
 ### Visuals:
 * Idea  	  
@@ -20,7 +21,7 @@ you have to collect all the eggs hidden in the scene and put it in a basket in t
 
 * Intermediate result 
 <div>
-<img src="./Screenshots/Zwischenstand.PNG" width="300">
+<img src="./Screenshots/Zwischenstand.jpg" width="300">
 </div>
 
 ### Necessary setup/execution steps: 
@@ -46,7 +47,7 @@ https://poly.google.com/view/a0umk-CRRwo
 
 
 ### Project state: 
-50%
+30%
 
 ### Limitations: 
 none
