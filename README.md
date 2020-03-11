@@ -20,7 +20,7 @@ you have to collect all the eggs hidden in the scene and put it in a basket in t
 
 * Intermediate result 
 <div>
-<img src="./Screenshots/Zwischenstand.png" width="300">
+<img src="./Screenshots/Zwischenstand" width="300">
 </div>
 
 ### Necessary setup/execution steps: 
