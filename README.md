@@ -15,7 +15,12 @@ you have to collect all the eggs hidden in the scene and put it in a basket in t
 ### Visuals:
 * Idea  	  
 <div>
-<img src="./Screenshots/Idee.JPG" width="250">
+<img src="./Screenshots/Idee.JPG" width="300">
+</div>
+
+* Intermediate result 
+<div>
+<img src="./Screenshots/Zwischenstand.png" width="300">
 </div>
 
 ### Necessary setup/execution steps: 
@@ -41,7 +46,7 @@ https://poly.google.com/view/a0umk-CRRwo
 
 
 ### Project state: 
-20 %
+50%
 
 ### Limitations: 
 none
