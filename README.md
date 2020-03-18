@@ -45,8 +45,12 @@ https://poly.google.com/view/6FTRqXW0feF
 
 
 ### Project state: 
-50%
+50%      
+     
+     
+Link to Planner: https://tasks.office.com/htl-salzburg.ac.at/de-AT/Home/Planner/#/plantaskboard?groupId=ca4dbf91-5ec9-4b4c-b5dd-a4970e2f2e0c&planId=0N-u2G0MeESZk1vCOAe3r5YABexC
 
+     
 ### Limitations: 
 none
 
