@@ -25,6 +25,7 @@ VR Oculus Rift / HTC Vive
 </div>
 
 ### Necessary setup/execution steps: 
+/
 
 ### Third party material:
 * environment
@@ -39,20 +40,20 @@ https://assetstore.unity.com/packages/3d/characters/low-poly-dancing-rabbit-2278
 * Eggs
 https://poly.google.com/view/47YwSvGeab6
 
-* Basket1
-https://poly.google.com/view/3RTGYqQvNgg
-
-* Basket 2
-https://poly.google.com/view/a0umk-CRRwo
+* Basket/ Pot
+https://poly.google.com/view/6FTRqXW0feF
 
 
 ### Project state: 
-30%
+50%
 
 ### Limitations: 
 none
 
-### Lessons Learned: 
+### Lessons Learned:   
+
+- plan more time for things you don't really know how to do
+
 
 
 Copyright by Anna Hagenstein :)
