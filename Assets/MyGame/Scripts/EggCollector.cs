@@ -12,6 +12,8 @@ public class EggCollector : MonoBehaviour
     public Animation globeAnimation;
     public Animation rabbitAnimation;
     public AudioSource happyNoise;
+    public GameObject winningText;
+    public int minEggs = 5;
 
     private void OnTriggerEnter(Collider coll)
     {
@@ -24,10 +26,11 @@ public class EggCollector : MonoBehaviour
         //cheaten nicht ermöglichen, Eier nicht mehr aus Pot nehmen können 
         coll.GetComponent<Interactable>().enabled = false;
         //wenn 5 Eier im Pot dann epic party
-        if (eggCount >= 5)
+        if (eggCount >= minEggs)
         {
             rabbitAnimation.Play();
             happyNoise.Play();
+            winningText.SetActive(true);
         }
 
     }
