@@ -28,8 +28,6 @@ VR Oculus Rift / HTC Vive
 /
 
 ### Third party material:
-* environment
-https://assetstore.unity.com/packages/3d/vegetation/lowpoly-forest-pack-42578
 
 * Globe
 https://assetstore.unity.com/packages/3d/props/interior/school-globe-152072
@@ -43,9 +41,18 @@ https://poly.google.com/view/47YwSvGeab6
 * Basket/ Pot
 https://poly.google.com/view/6FTRqXW0feF
 
+* Forest
+https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
+
+* Texture Globe
+https://www.turbosquid.com/3d-models/earth-max-free/1016431
+
+* Skybox
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
 
 ### Project state: 
-50%      
+basically done      
      
      
 Link to Planner: https://tasks.office.com/htl-salzburg.ac.at/de-AT/Home/Planner/#/plantaskboard?groupId=ca4dbf91-5ec9-4b4c-b5dd-a4970e2f2e0c&planId=0N-u2G0MeESZk1vCOAe3r5YABexC
@@ -57,7 +64,9 @@ none
 ### Lessons Learned:   
 
 - plan more time for things you don't really know how to do
-
+- youtube tutorials are your friend
+- don't make a concept for a game you can't do just because it sounds cool in your head, after you have finished you can always add more things
+- the 2D Debug Mode makes me aggressive 
 
 
 Copyright by Anna Hagenstein :)
