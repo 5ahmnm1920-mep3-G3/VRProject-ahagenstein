@@ -24,6 +24,12 @@ VR Oculus Rift / HTC Vive
 <img src="./Screenshots/Zwischenstand.jpg" width="300">
 </div>
 
+* Final
+<div>
+<img src="./Screenshots/Finalstand.png" width="300">
+</div>
+
+
 ### Necessary setup/execution steps: 
 /
 
