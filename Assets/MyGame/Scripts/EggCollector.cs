@@ -13,6 +13,7 @@ public class EggCollector : MonoBehaviour
     public Animation rabbitAnimation;
     public AudioSource happyNoise;
     public GameObject winningText;
+    public AudioSource celebration;
     public int minEggs = 5;
 
     private void OnTriggerEnter(Collider coll)
@@ -30,7 +31,10 @@ public class EggCollector : MonoBehaviour
         {
             rabbitAnimation.Play();
             happyNoise.Play();
+            celebration.Play();
             winningText.SetActive(true);
+
+
         }
 
     }
