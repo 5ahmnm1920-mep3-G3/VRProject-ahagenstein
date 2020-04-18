@@ -1,4 +1,4 @@
-# Easter Egg Hunt
+# Easter Egg Hunt :rabbit: :egg: :sun_with_face:
 
 ### Project description: 
 you have to collect all the Easter eggs hidden in the scene and put it in a basket in the middle of the scene. The middle of the scene is also marked with a globe and the Easter bunny ist waiting to celebrate with you. Collect all the eggs and win the game!! (and also to have an epic party with the Easter bunny) 
