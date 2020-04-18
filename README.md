@@ -1,7 +1,7 @@
-# VRProject-ahagenstein
+# Easter Egg Hunt
 
 ### Project description: 
-you have to collect all the eggs hidden in the scene and put it in a basket in the middle of the scene. The middle of the scene is also marked with a globe. Collect all the eggs and win the game! 
+you have to collect all the Easter eggs hidden in the scene and put it in a basket in the middle of the scene. The middle of the scene is also marked with a globe and the Easter bunny ist waiting to celebrate with you. Collect all the eggs and win the game!! (and also to have an epic party with the Easter bunny) 
 
 ### Development platform:
 - macOS Catalina Version 10.15.1 
@@ -31,7 +31,8 @@ VR Oculus Rift / HTC Vive
 
 
 ### Necessary setup/execution steps: 
-/
+For the best experience, the player needs a VR Device (VR Oculus Rift or HTC Vive). Alternatively, you could use the 2D Debug mode to play the game on a normal 2D screen.
+
 
 ### Third party material:
 
@@ -58,7 +59,7 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-f
 
 
 ### Project state: 
-basically done      
+100%      
      
      
 Link to Planner: https://tasks.office.com/htl-salzburg.ac.at/de-AT/Home/Planner/#/plantaskboard?groupId=ca4dbf91-5ec9-4b4c-b5dd-a4970e2f2e0c&planId=0N-u2G0MeESZk1vCOAe3r5YABexC
