@@ -16,17 +16,17 @@ VR Oculus Rift / HTC Vive
 ### Visuals:
 * Idea  	  
 <div>
-<img src="./Screenshots/Idee.JPG" width="300">
+<img src="./Screenshots/Idee.JPG" width="400">
 </div>
 
 * Intermediate result 
 <div>
-<img src="./Screenshots/Zwischenstand.jpg" width="300">
+<img src="./Screenshots/Zwischenstand.jpg" width="400">
 </div>
 
 * Final
 <div>
-<img src="./Screenshots/Finalstand.png" width="300">
+<img src="./Screenshots/Finalstand.png" width="400">
 </div>
 
 
