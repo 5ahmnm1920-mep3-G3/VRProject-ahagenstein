@@ -14,6 +14,7 @@ public class EggCollector : MonoBehaviour
     public AudioSource happyNoise;
     public GameObject winningText;
     public AudioSource celebration;
+    public AudioSource eggInputSound;
     public int minEggs = 5;
 
     private void OnTriggerEnter(Collider coll)
@@ -24,6 +25,8 @@ public class EggCollector : MonoBehaviour
         eggCount++; print(eggCount);
         //Spiele Globus animation
         globeAnimation.Play();
+        //Sound wird abgespielt wenn ein Ei in den Pot geworfen wird
+        eggInputSound.Play();
         //cheaten nicht ermöglichen, Eier nicht mehr aus Pot nehmen können 
         coll.GetComponent<Interactable>().enabled = false;
         //wenn 5 Eier im Pot dann epic party
